@@ -29,7 +29,7 @@ Site desenvolvido, usando basicamente HTML e CSS, durante o curso "**HTML e CSS:
 
 * Clique no arquivo "index.html". Assim, o site abrirá no seu navegador.
 
-* *Lembrando também que você pode conferir o deploy do site no link:* https://mariaclaudiapio.github.io/Site-Alura-Books/. 
+* *Lembrando também que você pode conferir o deploy do site no link:* https://mariaclaudiapio.github.io/site-alura-books/. 
 
   
 
